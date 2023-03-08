@@ -45,3 +45,6 @@ public class Program
 		
 	}
 }
+
+// Input String : Tech Point Fundamentals
+// Reversed Word : hceT tnioP slatnemadnuF

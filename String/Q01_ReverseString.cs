@@ -60,3 +60,9 @@ public class Program
 	 }
 	 
 }
+
+
+// Input String : TechPointFundamentals
+// Reversed String With CharArray Logic: slatnemadnuFtnioPhceT
+// Reversed String With CharArray Logic and Temp Variable: slatnemadnuFtnioPhceT
+// Reversed String Without CharArray Logic: slatnemadnuFtnioPhceT

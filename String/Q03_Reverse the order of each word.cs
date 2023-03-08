@@ -83,3 +83,9 @@ public class Program
 		return reversedWordOrder.ToString();		
 	}
 }
+
+
+// Input String : Tech Point Fundamentals
+// Reversed Word Order (Way-1) : Fundamentals Point Tech 
+// Reversed Word Order (Way-2) : Fundamentals Point Tech
+// Reversed Word Order (Way-3) : Fundamentals Point Tech
